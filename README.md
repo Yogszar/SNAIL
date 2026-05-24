@@ -1,2 +1,8 @@
 # SNAIL
 All data concerning the SNAIL 
+MINT ADDRESS 474tsXEpqeCVh749giexcUeyn8HbcZvQmp2yQnFWpump
+NAME: SNAIL
+TICKER: SNAIL
+CREATOR ACCOUNT: D3t4EYgbddecsQBUTmYWwVRQ62sNTQk9H8h3LGGH9nr
+CREATOR X/TWITTER ACCOUNT:https://x.com/SBellafior23211
+CREATOR INSTAGRAM:https://www.instagram.com/yogszar?igsh=NGh4bHdhMHd4ZG54
