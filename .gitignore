@@ -1,0 +1,42 @@
+# Security & Credentials
+.env
+.env.local
+.secret
+mnemonic.txt
+wallet.json
+
+# Build & Compile Artifacts
+/cache
+/artifacts
+/out
+/cache_forge
+/broadcast
+
+# Dependencies
+/node_modules
+/lib
+/vendor
+
+# TypeChain & Bindings
+/typechain
+/typechain-types
+
+# Test Coverage
+/coverage
+/coverage.json
+
+# Deployments & Local Networks
+/deployments/localhost
+/ignition/deployments/chain-31337
+*.tsbuildinfo
+
+# Foundry Specific
+/forge-temp
+.foundry_dev_tools.toml
+
+# IDEs & System files
+.DS_Store
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
